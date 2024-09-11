@@ -4,7 +4,7 @@ A simple and efficient To-Do List web application that helps users organize thei
 Features
 Add, edit, and delete tasks.
 Mark tasks as completed.
-Clear completed tasks.
+You could clear the completed tasks
 Responsive design for mobile and desktop.
 Tasks persist in local storage (optional).
 
